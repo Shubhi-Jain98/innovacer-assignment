@@ -10,9 +10,8 @@ import sqlite3										#for creating database online
 def sendEmail(msg, email):
 	s = smtplib.SMTP('smtp.gmail.com', 587)
 	s.starttls()
-	s.login("16ucs110@lnmiit.ac.in", "anju1031999")							#The sender needs to enter his email and password 
-	s.sendmail("16ucs110@lnmiit.ac.in", "16ucs110@lnmiit.ac.in", msg)
-	s.sendmail("16ucs110@lnmiit", email, msg)
+	s.login("shubhcse2016@gmail.com", "extraid2016'")							#The sender needs to enter his email and password 
+	s.sendmail("shubhcse2016@gmail.com", email, msg)
 	s.quit() 
 
 	
