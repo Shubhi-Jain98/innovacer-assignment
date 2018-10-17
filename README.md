@@ -5,7 +5,7 @@ Innovacer-SDE(Platform)-Assignment
 A code has been created to keep track of all our favourite seasons and their latest episodes’ air time. It will send an email to the users account updating him about 
 the details of the series names he entered as comma separated single string.
 
-PREREQUISITES:
+# PREREQUISITES:
 
 All the scipts that I have created were tested successfully on Linux based OS with Python 2.7.10 or Python 3 installed on the system.
 Folling are the things you need to install to run the code:
@@ -47,7 +47,7 @@ To be able to send mails from python you need to follow the steps below
 	If you don't want to make your main gmail less secure, or if you don't already have gmail, then sign up for a new gmail solely for this purpose.
 
 
-RUNNING THE CODE:
+# RUNNING THE CODE:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 The code can be run by running the file Innovaccer.py on terminal
@@ -56,7 +56,7 @@ The code will send an email to the user updating him with latest dates and will 
 The code also considers the cases when the series entered is wrong or the dates of upcomming season are yet to be published.
 
 
-FUNCTIONING:
+# FUNCTIONING:
 
 1) Sending Email
  We need to import smtplib library
