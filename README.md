@@ -1,6 +1,6 @@
 Innovacer-SDE(Platform)-Assignment
 
-ABOUT:
+# ABOUT:
 
 A code has been created to keep track of all our favourite seasons and their latest episodes’ air time. It will send an email to the users account updating him about 
 the details of the series names he entered as comma separated single string.
