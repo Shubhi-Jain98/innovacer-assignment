@@ -8,7 +8,7 @@ the details of the series names he entered as comma separated single string.
 # PREREQUISITES:
 
 All the scipts that I have created were tested successfully on Linux based OS with Python 2.7.10 or Python 3 installed on the system.
-Folling are the things you need to install to run the code:
+Following are the things you need to install to run the code:
 
 Install pip for Python2
 -->commands to install
